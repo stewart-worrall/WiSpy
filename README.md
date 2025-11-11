@@ -81,7 +81,7 @@ Download and install the Arduino IDE from [arduino.cc](https://www.arduino.cc/en
 
 ### 5. Upload the Code
 
-1. Open `wifi-hotspot-simple.ino` in Arduino IDE
+1. Open `WiSpy.ino` in Arduino IDE
 2. (Optional) Modify the hotspot name by changing the `HOTSPOT_NAME` define at the top of the file
 3. Click the **Upload** button (→ arrow icon) or press **Ctrl+U** (Windows/Linux) or **Cmd+U** (Mac)
 4. Wait for compilation and upload to complete
